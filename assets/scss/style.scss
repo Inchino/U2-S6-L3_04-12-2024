@@ -40,7 +40,12 @@ button{
     bottom: 20vw;
 }
 
-#divPc img{
+#divPc img, .riga img{
     width: 23vw;
     height: 23vw;
+}
+
+.riga{
+    position: relative;
+    bottom: 10vw;
 }
